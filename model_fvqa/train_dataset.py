@@ -9,7 +9,7 @@ import json
 import numpy as np
 import pickle
 import torch
-from util.vocabulary import Vocabulary
+from util.vocabulary import vocabulary
 from torch.utils.data import DataLoader
 import dgl
 from math import sqrt, atan2
